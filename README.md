@@ -44,6 +44,10 @@
 - 花了些时间慢慢总结的时间序列预测方法，全在知乎
   - [有什么好的模型可以做高精度的时间序列预测呢？](https://www.zhihu.com/question/21229371/answer/533770345)
   - 包括：ARIMA + xgboost + CNN + seq2seq(attention) + LSTM + Prophet
+  
+## 6.数据
+- 数据太大，需要的给我发邮件
+- 包括：原始训练数据，测试数据
 
 # 其余解法
 - prophet（89.3213）
